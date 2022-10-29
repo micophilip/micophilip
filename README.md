@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @micophilip
 - 👀 I’m interested in data engineering, machine learning, natural language processing
-- 🌱 I’m currently learning Private Federated Learning
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Apache Spark, NLP, ML
 
 <!---
